@@ -1,0 +1,6 @@
+{
+  "name": "Bhai Properties",
+  "description": "Your Trusted Gateway to Prime Properties in North West Delhi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
