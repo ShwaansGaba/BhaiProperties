@@ -82,7 +82,7 @@ export default function Hero() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 1.5, duration: 1 }}
-        className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center space-y-4 pointer-events-none"
+        className="absolute bottom-10 left-1/2 -translate-x-1/2 hidden md:flex flex-col items-center space-y-4 pointer-events-none"
       >
         <span className="text-[9px] uppercase tracking-[0.3em] text-stone-400 font-medium">Scroll to explore</span>
         <div className="w-[1px] h-16 bg-gradient-to-b from-stone-400 to-transparent" />
